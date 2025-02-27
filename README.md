@@ -46,7 +46,7 @@ Añadimos el siguiente contenido:
 }
 ```
 
-![image](https://github.com/user-attachments/assets/c1d06a0f-b9cf-469e-8e51-86ffb20053cb)
+![image](https://github.com/user-attachments/assets/63220918-ce72-4d1a-84e9-21729922e6c0)
 
 
 Guardamos los cambios y reiniciamos Docker:
